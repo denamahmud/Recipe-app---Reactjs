@@ -1,4 +1,4 @@
-import { Box } from '@mui/material'
+import { Box, Typography } from '@mui/material'
 import { makeStyles } from '@mui/styles'
 
 const useStyles = makeStyles({
@@ -30,9 +30,11 @@ const Logo = () => {
         className={classes.logoContainer}
     >
 
-        <a href='#' className={classes.logo}>
-          recipe app
-        </a>
+       <Typography 
+          component='h3'
+          className={classes.logo}>
+            recipe app
+       </Typography>
     </Box>
   )
 }
