@@ -46,5 +46,8 @@
   },
   "devDependencies": {
     "gh-pages": "^3.2.3"
+  },
+  "resolutions": {
+    "minimist": "^1.2.6"
   }
 }
