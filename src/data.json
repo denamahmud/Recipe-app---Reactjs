@@ -1,0 +1,81 @@
+{
+    "foods" :[ 
+    {
+        "id" : 1,
+        "title" : "fruits juice",
+        "price" : 90,
+        "category" : "drinks",
+        "desc" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit",
+        "img" : "./imgs/drinks/drinks1.jpg"
+    },
+    {
+        "id" : 2,
+        "title" : "water",
+        "price" : 97,
+        "category" : "drinks",
+        "desc" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit",
+        "img" : "./imgs/drinks/drink2.jpg"
+    },
+    {
+        "id" : 3,
+        "title" : "fast food 1",
+        "price" : 80,
+        "category" : "fast foods",
+        "desc" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit",
+        "img" : "./imgs/fast-food/ashley-green-UbTUTDRqj-o-unsplash.jpg"
+    },
+    {
+        "id" : 4,
+        "title" : "fast food 2",
+        "price" : 10,
+        "category" : "fast foods",
+        "desc" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit",
+        "img" : "./imgs/fast-food/chad-montano-MqT0asuoIcU-unsplash.jpg"
+    },
+    {
+        "id" : 5,
+        "title" : "fast food 3",
+        "price" : 55,
+        "category" : "fast foods",
+        "desc" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit",
+        "img" : "./imgs/fast-food/jonathan-borba-8l8Yl2ruUsg-unsplash.jpg"
+    },
+    {
+        "id" : 6,
+        "title" : "sweet 1",
+        "price" : 30,
+        "category" : "sweets",
+        "desc" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit",
+        "img" : "./imgs/sweets/melanie-kreutz-cSzyY2UaFSI-unsplash.jpg"
+    },
+    {
+        "id" : 7,
+        "title" : "sweet 2",
+        "price" : 64,
+        "category" : "sweets",
+        "desc" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit",
+        "img" : "./imgs/sweets/slashio-photography-ZYKCgsRz9Mg-unsplash.jpg"
+    },
+    {
+        "id" : 8,
+        "title" : "sweet 3",
+        "price" : 100,
+        "category" : "sweets",
+        "desc" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit",
+        "img" : "./imgs/sweets/wojtek-mich-ZGj0_IjgXdo-unsplash.jpg"
+    }
+    ],
+    "categories" :[
+        {
+            "category" : "drinks"
+        },
+        {
+            "category" : "fast foods"
+        },
+        {
+            "category" : "sweets"
+        }
+        
+    ]
+}
+
