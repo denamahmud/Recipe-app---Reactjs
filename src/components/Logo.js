@@ -10,7 +10,7 @@ const useStyles = makeStyles({
 
     },
     logo :{
-      fontSize: '2rem',
+      fontSize: '4rem',
       color: '#FF6A97',
       textTransform : 'capitalize',
       textDecoration: 'none',
