@@ -30,7 +30,7 @@ const Logo = () => {
         className={classes.logoContainer}
     >
 
-        <a href='/' className={classes.logo}>
+        <a href='#' className={classes.logo}>
           recipe app
         </a>
     </Box>

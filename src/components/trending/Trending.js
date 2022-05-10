@@ -1,4 +1,4 @@
-import { CardMedia, Stack, Typography } from '@mui/material'
+import { Stack, Typography } from '@mui/material'
 import { Box } from '@mui/system'
 import { makeStyles } from '@mui/styles'
 import ArrowRightIcon from '@mui/icons-material/ArrowRight';
