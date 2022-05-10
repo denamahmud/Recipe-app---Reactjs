@@ -25,7 +25,6 @@ const Logo = () => {
   return (
     <Box
         component='div'
-        fontWeight='bold'
         className={classes.logoContainer}
     >
 
