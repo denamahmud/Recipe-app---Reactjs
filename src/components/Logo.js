@@ -10,7 +10,7 @@ const useStyles = makeStyles({
 
     },
     logo :{
-      fontSize: '4rem',
+      fontSize: '2rem',
       color: '#FF6A97',
       textTransform : 'capitalize',
       textDecoration: 'none',
@@ -30,7 +30,7 @@ const Logo = () => {
     >
 
        <Typography 
-          component='h3'
+          component='div'
           className={classes.logo}>
             recipe app
        </Typography>
